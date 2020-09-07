@@ -1,2 +1,2 @@
-# Selective-Repeat
-RDT using Selective Repeat
+# Selective-Repeat and Go Back-N
+RDT using Selective Repeat and Go Back-N
